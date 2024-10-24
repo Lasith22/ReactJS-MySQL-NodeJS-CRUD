@@ -1,0 +1,20 @@
+.information {
+  display: flex;
+  flex-direction: column;
+}
+
+.information input {
+  width: 300px;
+  height: 50px;
+  margin: 5px;
+}
+
+.information button {
+  width: 300px;
+  margin-top: 15px;
+  height: 50px;
+}
+
+.information button :hover {
+  cursor: pointer;
+}
